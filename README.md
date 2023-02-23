@@ -4,11 +4,9 @@ It was a short project made for a recruitment task for Megaventory. The project 
 
 Tech: React, HTML, CSS and TailwindCSS, Vite.
 
-How to Install:
+Installation and Setup Instructions:
  - clone down this repository
  - installation: `npm install`
  - run server: `npm run dev`
  - to visit app: `localhost:5173/`
 
-npm install
-npm run dev
