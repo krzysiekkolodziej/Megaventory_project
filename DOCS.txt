@@ -1,5 +1,0 @@
-The PurchaseOrder component uses the PropTypes library to verify that the properties passed to it are of the correct type. For an item object, it defines the exact shape that the object must have, including required fields and their types.
-
-The PurchaseOrders component uses the fetch function to fetch data from a JSON file. This function is called in the useEffect hook using an empty dependency array, which means it will only be called once the first time the component is rendered.
-
-After retrieving the data, the PurchaseOrders component renders a list of PurchaseOrder components, passing each of them the corresponding order data object.
